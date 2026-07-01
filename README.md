@@ -25,7 +25,7 @@ Run the commands, enter your activation code, and let the installer prepare ever
 Installer ZIP:
 
 ```text
-https://github.com/RootWebCore/xui-one-1513-ubuntu22-installer/releases/download/v1.5.13/xui-one-1513-ubuntu22-installer.zip
+https://github.com/rootwcore/xui-one-1513-ubuntu22-installer/releases/download/v1.5.13/xui-one-1513-ubuntu22-installer.zip
 ```
 
 Package contents:
