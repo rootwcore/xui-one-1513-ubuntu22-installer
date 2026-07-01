@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./xui-one-1-5-13.png" alt="XUI.ONE 1.5.13 Ubuntu 22.04 Installer" width="100%">
+</p>
+
+<br>
+
 # 🚀 XUI.ONE 1.5.13 Ubuntu 22.04 Installer
 
 Ready-to-use **XUI.ONE 1.5.13 installer package for Ubuntu 22.04 LTS / Jammy**.
